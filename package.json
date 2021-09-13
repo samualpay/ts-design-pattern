@@ -1,0 +1,26 @@
+{
+  "name": "@samualpay/ts-npm-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samualpay/ts-npm-lib.git"
+  },
+  "author": "samualpay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samualpay/ts-npm-lib/issues"
+  },
+  "homepage": "https://github.com/samualpay/ts-npm-lib#readme",
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {}
+}
