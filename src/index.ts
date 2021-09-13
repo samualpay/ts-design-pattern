@@ -1,6 +1,6 @@
-import * as math from './math'
+import {Math} from './math'
 export function init (){
     return {
-        math
+        math:new Math
     }
 }
